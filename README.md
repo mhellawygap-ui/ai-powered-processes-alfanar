@@ -1,6 +1,8 @@
-# Alfanar Projects Marketing Assessment
+# Alfanar Projects — Corporate & Digital Market Assessment
 
-Branded static HTML report preserving the supplied assessment and execution plan, with a complete AI marketing automation strategy.
+[Read the online report](https://mhellawygap-ui.github.io/alfanar-projects-corporate-digital-market-assessment/).
+
+Six-section management assessment covering corporate structure, markets, stakeholders, social channels, marketing automation and execution priorities.
 
 ## Contents
 
@@ -11,7 +13,7 @@ Branded static HTML report preserving the supplied assessment and execution plan
 5. AI marketing automation: 12 opportunities, five prioritized workflows, implementation phases and AI Marketing Hub
 6. Practical execution plan: channel baseline, flagship campaign and Bisha BESS content demonstration
 
-Open `index.html`, or publish the main branch root with GitHub Pages. All display images and the corporate profile PDF are bundled alongside the HTML. No build process or external JavaScript is required.
+Open `index.html`, or publish the main branch root with GitHub Pages. All display images are embedded directly in the HTML for reliable rendering. The corporate profile PDF is available as a linked reference. No build process or external JavaScript is required.
 
 The supplied report's assessments, dated public snapshots, chart values and limitations are retained. This update is not a fresh audit of every claim. AI use cases and campaigns are proposals; drafts still require Alfanar's internal review. This is an independent assessment, not an official Alfanar website. Trademarks and referenced imagery remain the property of their respective owners.
 
@@ -26,3 +28,7 @@ The supplied report's assessments, dated public snapshots, chart values and limi
 - Social icons: Simple Icons v13.
 
 External source URLs remain available in the report. Sector illustrations are original graphics retained from the source HTML.
+
+## Updated visual assets
+
+Official company logos were sourced from Alfanar Projects, Elsewedy Electric, Larsen & Toubro, Nesma & Partners, ACWA and PowerChina. Project and water-sector photography comes from Alfanar Projects. The corporate-profile cover is rendered from the linked official PDF. Logos retain their original colors; white logo variants are displayed on blue tiles for contrast.
